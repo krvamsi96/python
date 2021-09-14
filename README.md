@@ -12,9 +12,13 @@
 * [What is pickling and unpickling?](#k)
 * [Explain split() and join() functions in Python?](#l)
 * [What does *args and **kwargs mean?](#m)
-* 
-* 
-* 
+* [What is pep 8?](#n)
+* [What are python namespaces?](#o)
+* [What are the common built-in data types in Python?](#p)
+* [What are the common built-in data types in Python?](#q)
+* [ Is python case sensitive?](#r)
+* [ What is the lambda function in Python?](#s)
+
 
 
 
@@ -87,15 +91,58 @@ Here, also, “kwargs” is used just by convention. You can use any other name.
 Keyworded argument means a variable that has a name when passed to a function.
 It is actually a dictionary of the variable names and its value.
   
+ 
+ 
+## What is pep 8? <a name="n"></br>
+   PEP in Python stands for Python Enhancement Proposal.It is a set of rules that specify how to write and design Python code for maximum readability.  
+  
+## What are python namespaces? <a name="o"></br>
+A Python namespace ensures that object names in a program are unique and can be used without any conflict. Python implements these namespaces as dictionaries with ‘name as key’ mapped to its respective ‘object as value’.
+
+Let’s explore some examples of namespaces:
+
+Local Namespace consists of local names inside a function. It is temporarily created for a function call and gets cleared once the function returns.
+Global Namespace consists of names from various imported modules/packages that are being used in the ongoing project. It is created once the package is imported into the script and survives till the execution of the script.
+Built-in Namespace consists of built-in functions of core Python and dedicated built-in names for various types of exceptions.
+
+## What are the common built-in data types in Python? <a name="p"></br>
+Python supports the below-mentioned built-in data types:
+
+Immutable data types:
+
+Number
+String
+Tuple
+Mutable data types:
+
+List
+Dictionary
+set
   
   
   
+## What are the common built-in data types in Python?  <a name="q"></br>
+   Python supports the below-mentioned built-in data types:
+
+Immutable data types:
+
+Number
+String
+Tuple
+Mutable data types:
+
+List
+Dictionary
+set
   
   
   
-  
-  
-  
+## Is python case sensitive?  <a name="r"></br>
+Yes,Python is a case sensitive language.This means that Function and function both are different in python alike SQL and Pascal.  
+
+
+## What is the lambda function in Python?  <a name="s"></br>
+A lambda function is an anonymous function (a function that does not have a name) in Python. To define anonymous functions, we use the ‘lambda’ keyword instead of the ‘def’ keyword, hence the name ‘lambda function’. Lambda functions can have any number of arguments but only one statement.
   
   
   
