@@ -15,7 +15,6 @@
 * [What is pep 8?](#n)
 * [What are python namespaces?](#o)
 * [What are the common built-in data types in Python?](#p)
-* [What are the common built-in data types in Python?](#q)
 * [ Is python case sensitive?](#r)
 * [ What is the lambda function in Python?](#s)
 
@@ -118,23 +117,6 @@ Mutable data types:
 List
 Dictionary
 set
-  
-  
-  
-## What are the common built-in data types in Python?  <a name="q"></br>
-   Python supports the below-mentioned built-in data types:
-
-Immutable data types:
-
-Number
-String
-Tuple
-Mutable data types:
-
-List
-Dictionary
-set
-  
   
   
 ## Is python case sensitive?  <a name="r"></br>
