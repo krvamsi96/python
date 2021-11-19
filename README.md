@@ -18,6 +18,7 @@
 * [ Is python case sensitive?](#r)
 * [ What is the lambda function in Python?](#s)
 * [What are docstrings in Python?](#z)
+* [ What is the usage of help() and dir() function in Python? ](#x)
 
 
 
@@ -129,6 +130,12 @@ A lambda function is an anonymous function (a function that does not have a name
   
 ## What are docstrings in Python?  <a name="z"></br>
 Docstrings are not actually comments, but, they are documentation strings. These docstrings are within triple quotes. They are not assigned to any variable and therefore, at times, serve the purpose of comments as well.  
+
+## What is the usage of help() and dir() function in Python?  <a name="x"></br>
+Help() and dir() both functions are accessible from the Python interpreter and used for viewing a consolidated dump of built-in functions. 
+
+Help() function: The help() function is used to display the documentation string and also facilitates you to see the help related to modules, keywords, attributes, etc.
+Dir() function: The dir() function is used to display the defined symbols.
   
   
   
