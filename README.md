@@ -17,6 +17,7 @@
 * [What are the common built-in data types in Python?](#p)
 * [ Is python case sensitive?](#r)
 * [ What is the lambda function in Python?](#s)
+* [What are docstrings in Python?](#z)
 
 
 
@@ -126,6 +127,8 @@ Yes,Python is a case sensitive language.This means that Function and function bo
 ## What is the lambda function in Python?  <a name="s"></br>
 A lambda function is an anonymous function (a function that does not have a name) in Python. To define anonymous functions, we use the ‘lambda’ keyword instead of the ‘def’ keyword, hence the name ‘lambda function’. Lambda functions can have any number of arguments but only one statement.
   
+## What are docstrings in Python?  <a name="z"></br>
+Docstrings are not actually comments, but, they are documentation strings. These docstrings are within triple quotes. They are not assigned to any variable and therefore, at times, serve the purpose of comments as well.  
   
   
   
