@@ -20,6 +20,7 @@
 * [ What is the lambda function in Python?](#s)
 * [What are docstrings in Python?](#z)
 * [ What is the usage of help() and dir() function in Python? ](#x)
+* [What are mutable and immutable data types?] (*1)
 
 x = "Hello World"	str	
 
@@ -165,7 +166,10 @@ Help() and dir() both functions are accessible from the Python interpreter and u
 Help() function: The help() function is used to display the documentation string and also facilitates you to see the help related to modules, keywords, attributes, etc.
 Dir() function: The dir() function is used to display the defined symbols.
   
-  
+## what are mutable and immutable data types? <a name="1"></br>
+ Mutable data types can be changed after creating them. Some of the mutable objects in Python are list, set, dict.
+
+ Immutable data types can’t be changed after creating them. Some of the immutable objects in Python are str, tuple.  
   
   
   
