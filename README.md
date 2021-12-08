@@ -20,7 +20,7 @@
 * [ What is the lambda function in Python?](#s)
 * [What are docstrings in Python?](#z)
 * [ What is the usage of help() and dir() function in Python? ](#x)
-* [What are mutable and immutable data types?] (*1)
+* [What are mutable and immutable data types?] (#1)
 
 x = "Hello World"	str	
 
