@@ -20,7 +20,8 @@
 * [ What is the lambda function in Python?](#s)
 * [What are docstrings in Python?](#z)
 * [ What is the usage of help() and dir() function in Python? ](#x)
-* [What are mutable and immutable data types?]
+* [What are mutable and immutable data types?](#y)
+* [What are Loss Function and Cost Functions?](#z)
 
 x = "Hello World"	str	
 
@@ -170,6 +171,8 @@ Dir() function: The dir() function is used to display the defined symbols.
  Mutable data types can be changed after creating them. Some of the mutable objects in Python are list, set, dict.
 
  Immutable data types can’t be changed after creating them. Some of the immutable objects in Python are str, tuple.  
+ 
+ ## What are Loss Function and Cost Functions? <a name="z"></br>
   
   
   
