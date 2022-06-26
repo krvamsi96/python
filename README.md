@@ -21,8 +21,6 @@
 * [What are docstrings in Python?](#z)
 * [ What is the usage of help() and dir() function in Python? ](#x)
 * [What are mutable and immutable data types?](#y)
-* [What are Loss Function and Cost Functions?](#z)
-* [Why do you use feature selection?](#1a)
 * [Explain the difference between an array and a linked list.](#1b)
 
 x = "Hello World"	str	
@@ -174,14 +172,6 @@ Dir() function: The dir() function is used to display the defined symbols.
 
  Immutable data types can’t be changed after creating them. Some of the immutable objects in Python are str, tuple.  
  
- ## What are Loss Function and Cost Functions? <a name="z"></br>
- 
- Arrays in python can only contain elements of same data types i.e., data type of array should be homogeneous. It is a thin wrapper around C language arrays and consumes far less memory than lists.
-Lists in python can contain elements of different data types i.e., data type of lists can be heterogeneous. It has the disadvantage of consuming large memory.
-
-
-## Why do you use feature selection? <a name="1a"></br>
-Feature selection offers a simple yet effective way to overcome the challenge of high dimensional data analysis by eliminating redundant and irrelevant data. Removing the irrelevant data improves learning accuracy, reduces the computation time, and facilitates an enhanced understanding for the learning model or data.  .
 
  ## Explain the difference between an array and a linked list.<a name="1b"></br>
 An array is a collection of elements of a similar data type. A linked list is a collection of objects known as a node where node consists of two parts, i.e., data and address. Array elements store in a contiguous memory location. Linked list elements can be stored anywhere in the memory or randomly stored. 
